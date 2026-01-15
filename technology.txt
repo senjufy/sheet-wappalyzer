@@ -1,0 +1,127 @@
+Found 125 unique technologies in 'leads.xlsx'.
+Here is a summary:
+- AOS
+- AddToAny
+- Amazon Cloudfront
+- Amazon S3
+- Amazon Web Services
+- Angular
+- AngularJS
+- Apache
+- Apache Traffic Server
+- AppNexus
+- Apple Pay
+- Backbone.js
+- BigCommerce
+- Bootstrap
+- Calendly
+- Cart Functionality
+- Chart.js
+- Cloudflare
+- Cloudinary
+- Debian
+- DreamWeaver
+- Element UI
+- Elementor
+- Envoy
+- Express
+- Facebook
+- FancyBox
+- Flywheel
+- Font Awesome
+- GSAP
+- Gatsby
+- Glyphicons
+- GoDaddy Website Builder
+- Google Cloud
+- Google Font API
+- Google Maps
+- Google Plus
+- Google Sign-in
+- Google Tag Manager
+- Gravatar
+- Gravity Forms
+- Highlight.js
+- HubSpot
+- IIS
+- Imperva
+- Ionicons
+- Kinsta
+- Klaviyo
+- Lightbox
+- LiteSpeed
+- Litespeed Cache
+- Lodash
+- Lua
+- MailChimp
+- Microsoft ASP.NET
+- Mobirise
+- Modernizr
+- Moment.js
+- MooTools
+- MySQL
+- Netlify
+- Next.js
+- NextGEN Gallery
+- Nginx
+- NitroPack
+- Node.js
+- Nuxt.js
+- OWL Carousel
+- OneTrust
+- OpenResty
+- OpenSSL
+- PHP
+- Plesk
+- Polyfill
+- Popper
+- Prototype
+- React
+- Redis
+- Redis Object Cache
+- RequireJS
+- Revslider
+- SWFObject
+- Select2
+- Shopify
+- Slick
+- Squarespace
+- Stimulus
+- Sucuri
+- Swiper Slider
+- TinyMCE
+- TrackJs
+- Typekit
+- UIKit
+- UNIX
+- Ubuntu
+- Underscore.js
+- Varnish
+- Vercel
+- Vue.js
+- W3 Total Cache
+- WP Engine
+- WP Rocket
+- Webflow
+- Weebly
+- Windows Server
+- Wix
+- WooCommerce
+- WordPress
+- WordPress Super Cache
+- Yoast SEO
+- YouTube
+- ZURB Foundation
+- animate.css
+- hCaptcha
+- jQuery
+- jQuery Migrate
+- jQuery Mobile
+- jQuery UI
+- jsDelivr
+- particles.js
+- prettyPhoto
+- reCAPTCHA
+- styled-components
+- webpack
+- wpBakery
